@@ -8,3 +8,6 @@ cabal-dev
 *.in
 *.txt
 *.exe
+*.bat*
+*.tx
+*.in*
